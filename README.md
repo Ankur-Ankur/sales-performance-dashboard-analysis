@@ -71,7 +71,7 @@ The project includes SQL queries for:
 
 ## Tableau Dashboard
 
-[(Add your Tableau Public link here)](https://public.tableau.com/app/profile/ankur1389/viz/KPI_17832746412170/Dashboard3?publish=yes)
+(https://public.tableau.com/app/profile/ankur1389/viz/KPI_17832746412170/Dashboard3?publish=yes)
 
 
 ---
